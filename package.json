@@ -1,0 +1,19 @@
+{
+  "name": "eos-lottery",
+  "version": "1.0.0",
+  "description": "Lottery contract for multi-round lottery exchange game",
+  "main": "index.js",
+  "scripts": {
+    "test": "test-lottery"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nicholaspai/eos-lottery.git"
+  },
+  "author": "Nick Pai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicholaspai/eos-lottery/issues"
+  },
+  "homepage": "https://github.com/nicholaspai/eos-lottery#readme"
+}
